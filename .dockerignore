@@ -1,0 +1,15 @@
+# デフォルトで指定されていた
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
+.git
+
+# 開発環境にあればよい
+.vscode
+.husky
+
+# ログファイル
+yarn-error.log*
